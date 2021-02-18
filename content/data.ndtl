@@ -5,6 +5,13 @@ DOONIUM ESCORT
   QOTE
     > Escort a Gozanti loaded with Mining Guild Doonium through a sublight shipping route known to be infested with pirates.
     & Payment: 15,000 credits, plus 1,000 for each recorded kill on a pirate starship
-  WIDE : false
   TAGS : escort, space
+
+MUTANT MYNOCKS
+  TYPE : article
+  AUTH : Commerce Guild
+  QOTE
+    > Retrieve samples of a rare, mutated variant of the Mynock from Aloxor in the Mid Rim.
+    & Payment: 1,000 credits per body retrieved, plus 2,000 per healthy live sample
+  TAGS : retrieval, space, asteroids
 `

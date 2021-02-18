@@ -1,4 +1,4 @@
-const SETTINGS = 
+const SETTINGS =
 {
 	STATSNUMTAGS: 5,
 	STATSNUMTYPE: 10,
@@ -10,7 +10,7 @@ const SETTINGS =
 	ARTICLEIDBASE: 'item',
 	SHOWUPPER: true,
 	SHOWTITLE: true,
-	SHOWDATE: true,
+	SHOWDATE: false,
 	SHOWAUTH: true,
 	SHOWTYPE: false,
 	SHOWLINK: true,
