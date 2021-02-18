@@ -1,6 +1,5 @@
 var DATABASE = `
 HOW TO READ THIS BOARD
-  TYPE : quote
   QOTE
     > This is a fairly easy to read bounty board, but still as things stand I have decided to make sure as much information as possible is relayed to you, the reader. Each card represents a bounty. Technically, they could be given by anyone but realistically it'll just be the Commerce Guild.
     & Ones with 'Adv' before their title are ones that require some sort of additional standing with the bounty giver. Whether this means just finishing one regular job or twenty is up to the giver in question.
@@ -9,7 +8,6 @@ HOW TO READ THIS BOARD
   DONE : true
 
 DOONIUM ESCORT
-  TYPE : article
   AUTH : Commerce Guild
   QOTE
     > Escort a Gozanti loaded with Mining Guild Doonium through a sublight shipping route known to be infested with pirates.
@@ -17,7 +15,6 @@ DOONIUM ESCORT
   TAGS : escort, space
 
 MUTANT MYNOCKS
-  TYPE : article
   AUTH : Commerce Guild
   QOTE
     > Retrieve samples of a rare, mutated variant of the Mynock from Aloxor in the Mid Rim.
@@ -26,7 +23,6 @@ MUTANT MYNOCKS
   DONE : true
 
 RARE IMPORTS
-  TYPE : article
   AUTH : Commerce Guild
   QOTE
     > Bring in rare and exotic materials from anywhere in the galaxy to sell for a premium. Suprise me, if it takes my fancy I'll pay handsomely for it.
@@ -36,18 +32,16 @@ RARE IMPORTS
   DONE : true
 
 ADV HELPING HAND
-  TYPE : article
   AUTH : Commerce Guild
   QOTE
     > Eliminate a group of hostiles disrupting Mining Guild operations on a planet in the Deep Core.
     & Payment: 220,000 credits
-  TAGS : elimination, planet-side
+  TAGS : elimination, planetside
 
 ADV RANCOR HIDE
-  TYPE : article
   AUTH : Commerce Guild
   QOTE
     > Retrieve Rancor skins from either Felucia or Dathomir. Must be properly skinned and treated, as enzymed in the Rancor's flesh begin to deteriorate the skin once the beast is killed.
     & Payment: 50,000 per complete, well-preserved skin (bonuses may be allotted if preservation is above average)
-  TAGS : retrieval, planet-side
+  TAGS : retrieval, planetside
 `
