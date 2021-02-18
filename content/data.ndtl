@@ -1,4 +1,12 @@
 var DATABASE = `
+HOW TO READ THIS BOARD
+  TYPE : quote
+  QOTE
+    > This is a fairly easy to read bounty board, but still as things stand I have decided to make sure as much information as possible is relayed to you, the reader. Each card represents a bounty. Technically, they could be given by anyone but realistically it'll just be the Commerce Guild.
+    & Ones with 'Adv' before their title are ones that require some sort of additional standing with the bounty giver. Whether this means just finishing one regular job or twenty is up to the giver in question.
+  TAGS : guide
+  WIDE : true
+
 DOONIUM ESCORT
   TYPE : article
   AUTH : Commerce Guild
