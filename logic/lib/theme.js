@@ -1,17 +1,17 @@
 'use strict'
 
-function Theme (default_theme = { background: '#222222', f_high: '#fff', f_med: '#affec7', f_low: '#888888', f_inv: '#000000', b_high: '#555555', b_med: '#333333', b_low: '#111111', b_inv: '#affec7' }) {
+function Theme (default_theme = { background: '#18364A', f_high: '#fff', f_med: '#ffc600', f_low: '#0088ff', f_inv: '#000000', b_high: '#1B1A1C', b_med: '#333333', b_low: '#204863', b_inv: '#ffffff' }) {
   const themer = this
   //default_theme = { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' }
-/* --background: #222222;
+/* --background: #18364A;
 --f_high: #ffffff;
---f_med: #affec7;
---f_low: #888888;
+--f_med: #ffc600;
+--f_low: #0088ff;
 --f_inv: #000000;
---b_high: #555555;
---b_med: #333333;
---b_low: #111111;
---b_inv: #affec7;
+--b_high: #1B1A1C;
+--b_med: #204863;
+--b_low: #15232D;
+--b_inv: #ffffff;
 */
   this.el = document.createElement('style')
   this.el.type = 'text/css'
