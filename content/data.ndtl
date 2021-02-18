@@ -1,10 +1,10 @@
 var DATABASE = `
-TEST CARD
-  TYPE : quote
-  AUTH : Ranva Greene
-  SRCE : Memex
-  TAGS : test, non-bounty
+DOONIUM ESCORT
+  TYPE : article
+  AUTH : Commerce Guild
   QOTE
-    > This is a Memex card, I can basically put whatever I want on it. Images, links, etc.
-    & But I was thinking... what if I used this to make a bounty board? Wouldn't that be pretty cool?
+    > Escort a Gozanti loaded with Mining Guild Doonium through a sublight shipping route known to be infested with pirates.
+    & Payment: 15,000 credits, plus 1,000 for each recorded kill on a pirate starship
+  WIDE : false
+  TAGS : escort, space
 `
