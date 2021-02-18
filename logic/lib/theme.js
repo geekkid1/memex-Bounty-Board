@@ -1,6 +1,6 @@
 'use strict'
 
-function Theme (default_theme = { background: '#18364A', f_high: '#fff', f_med: '#ffc600', f_low: '#0088ff', f_inv: '#000000', b_high: '#1B1A1C', b_med: '#333333', b_low: '#204863', b_inv: '#ffffff' }) {
+function Theme (default_theme = { background: '#18364A', f_high: '#fff', f_med: '#0b9b20', f_low: '#0088ff', f_inv: '#000000', b_high: '#1B1A1C', b_med: '#333333', b_low: '#204863', b_inv: '#ffffff' }) {
   const themer = this
   //default_theme = { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' }
 /* --background: #18364A;
