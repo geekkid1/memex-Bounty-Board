@@ -12,7 +12,7 @@ const SETTINGS =
 	SHOWTITLE: true,
 	SHOWDATE: true,
 	SHOWAUTH: true,
-	SHOWTYPE: true,
+	SHOWTYPE: false,
 	SHOWLINK: true,
 	SHOWLOWER: true,
 	SHOWTAGS: true,
