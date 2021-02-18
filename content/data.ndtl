@@ -1,0 +1,22 @@
+var DATABASE = `
+MEMEX
+  TYPE : quote
+  PERS : Emily
+  SRCE : GitHub
+  LINK : https://github.com/kormyen/memex
+  QOTE 
+    > 'A bookmarks and notes tool to help with storage and overview. Read-only and server-less for easy sharing.' - Kormyen
+    > I think this is the beginning of an absolutely wonderful memex board.
+  DATE : 12021-02-18
+  TAGS : code, test
+  DONE : true
+
+TEST CARD
+  TYPE : quote
+  PERS : Emily
+  QOTE : 'This is a quote card I made just now to demonstrate this whole thing without adding too much data. It may not look like much, but I can add so many cards just like this with images and items and different things really easily!' - Emily
+  DATE : 12021-02-18
+  TAGS : quote, test
+  DONE : true
+  REVI : true
+`
