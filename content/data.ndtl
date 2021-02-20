@@ -22,6 +22,14 @@ MUTANT MYNOCKS
   TAGS : retrieval, space, asteroids
   DONE : true
 
+A WRENCH IN THE WORKS
+  AUTH : Commerce Guild
+  QOTE
+    > Find and capture a saboteur in a Commerce Guild factory. Dead or Alive, alive preferred so they can be interrogated to see if they had any accomplices.
+    & Payment: 30,000 (5,000 bonus if alive, 10k bonus per accomplice captured if any)
+  TAGS : capture, investigation, planetside
+  DONE : true
+
 RARE IMPORTS
   AUTH : Commerce Guild
   QOTE
@@ -37,6 +45,7 @@ ADV HELPING HAND
     > Eliminate a group of hostiles disrupting Mining Guild operations on a planet in the Deep Core.
     & Payment: 220,000 credits
   TAGS : elimination, planetside
+  DONE : true
 
 ADV RANCOR HIDE
   AUTH : Commerce Guild
@@ -44,4 +53,13 @@ ADV RANCOR HIDE
     > Retrieve Rancor skins from either Felucia or Dathomir. Must be properly skinned and treated, as enzymed in the Rancor's flesh begin to deteriorate the skin once the beast is killed.
     & Payment: 50,000 per complete, well-preserved skin (bonuses may be allotted if preservation is above average)
   TAGS : retrieval, planetside
+  DONE : true
+
+ADV TURNCOAT IN OUR MIDST
+  AUTH : Commerce Guild
+  QOTE
+    > Eliminate malicious Commerce Guild Defector attempting to bring classified business related information, including legally protected trade secrets, to a competitor on Coruscant.
+    & 150,000 On elimination and retrieval of intel case (Bonus for solid intelligence on the identity of the competitor, bonus depends on quality of information)
+  TAGS : elimination, investigation, planetside
+  DONE : true
 `
