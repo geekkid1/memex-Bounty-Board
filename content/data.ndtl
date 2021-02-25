@@ -51,7 +51,8 @@ ADV HELPING HAND
 ADV RANCOR HIDE
   AUTH : Commerce Guild
   QOTE
-    > Retrieve Rancor skins from either Felucia or Dathomir. Must be properly skinned and treated, as enzymed in the Rancor's flesh begin to deteriorate the skin once the beast is killed.
+    > Retrieve Rancor skins from either Felucia or Dathomir. Must be properly skinned and treated, as enzymes in the Rancor's flesh begin to deteriorate the skin once the beast is killed.
+    & You do not need to sign up for this job, simply gather the skins and bring them to the Commerce Guild agent on Takodana, near Maz's cantina. The agent there can also provide tool-kits for treating Rancor skins for 500 credits apiece if you need such tools.
     & Payment: 50,000 per complete, well-preserved skin (bonuses may be allotted if preservation is above average)
   TAGS : retrieval, planetside
   DONE : true
