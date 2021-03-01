@@ -47,6 +47,8 @@ COLLECTIONS
     > The Commerce Guild Collections department has many debts that need collecting, whether it be property or credits. Sometimes they like to call in extra help for these collections, since debtors are often... reluctant to pay back what they owe. Talk to local agents to see what can be done.
     & High profile collections are handed out to all agents, smaller scale ones are only handed out to the closest agent to the last known location of the debtor.
     & Payment: 10% of the value of the debt owed, including interest. If debt is property, it will be a sum of credits equal to 10% of the credit valuation of the property owed. This is non-negotiable.
+  TAGS : capture, retrieval
+  DONE : true
 
 ADV HELPING HAND
   AUTH : Commerce Guild
