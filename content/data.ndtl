@@ -3,6 +3,7 @@ HOW TO READ THIS BOARD
   QOTE
     > This is a fairly easy to read bounty board, but still as things stand I have decided to make sure as much information as possible is relayed to you, the reader. Each card represents a bounty. Technically, they could be given by anyone but realistically it'll just be the Commerce Guild.
     & Ones with 'Adv' before their title are ones that require some sort of additional standing with the bounty giver. Whether this means just finishing one regular job or twenty is up to the giver in question.
+    & Additionally, use the checks and x's in the corner of the cards to figure out whether the bounty is currently available to be completed. This condition is based on both canon and meta circumstances and may change often depending on how available I am to explain things to a GM, or even GM it myself.
   TAGS : guide
   WIDE : true
   DONE : true
@@ -54,7 +55,7 @@ ADV HELPING HAND
   AUTH : Commerce Guild
   QOTE
     > Eliminate a group of hostiles disrupting Mining Guild operations on a planet in the Deep Core.
-    & Payment: 220,000 credits
+    & Payment: 100,000 credits
   TAGS : elimination, planetside
   DONE : true
 
@@ -73,5 +74,5 @@ ADV TURNCOAT IN OUR MIDST
     > Eliminate malicious Commerce Guild Defector attempting to bring classified business related information, including legally protected trade secrets, to a competitor on Coruscant.
     & 150,000 On elimination and retrieval of intel case (Bonus for solid intelligence on the identity of the competitor, bonus depends on quality of information)
   TAGS : elimination, investigation, planetside
-  DONE : true
+  DONE : false
 `
