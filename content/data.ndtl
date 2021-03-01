@@ -55,6 +55,7 @@ ADV HELPING HAND
   AUTH : Commerce Guild
   QOTE
     > Eliminate a group of hostiles disrupting Mining Guild operations on a planet in the Deep Core.
+    & [one hunter active, bounty incomplete]
     & Payment: 100,000 credits
   TAGS : elimination, planetside
   DONE : true
