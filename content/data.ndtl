@@ -19,4 +19,5 @@ EXAMPLES
   QOTE
     > Ah, yes. Welcome, welcome to the first <em>example</em> bounty card of the board. This will demonstrate what the bounty pages might look like. Check the link on this very card to see it.
     & Well, what are you waiting for?! Go click on it!
+  LINK : ./pages/example_bounty.html
 `
