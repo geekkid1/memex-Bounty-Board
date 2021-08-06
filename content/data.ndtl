@@ -1,79 +1,17 @@
 var DATABASE = `
 HOW TO READ THIS BOARD
   QOTE
-    > This is a fairly easy to read bounty board, but still as things stand I have decided to make sure as much information as possible is relayed to you, the reader. Each card represents a bounty. Technically, they could be given by anyone but realistically it'll just be the Commerce Guild.
+    > This is a fairly easy to read bounty board, but still as things stand I have decided to make sure as much information as possible is relayed to you, the reader. Each card represents a bounty. Technically, they could be given by anyone but realistically it'll just be the Skyline Syndicate.
     & Ones with 'Adv' before their title are ones that require some sort of additional standing with the bounty giver. Whether this means just finishing one regular job or twenty is up to the giver in question.
     & Additionally, use the checks and x's in the corner of the cards to figure out whether the bounty is currently available to be completed. This condition is based on both canon and meta circumstances and may change often depending on how available I am to explain things to a GM, or even GM it myself.
+    & If you see a link on a bounty, try clicking on it! I'm trying something new where I add more comprehensive pages to the bounty board.
   TAGS : guide
   WIDE : true
   DONE : true
 
-RECLAMATION
-  AUTH : Commerce Guild
+UNDER CONSTRUCTION
   QOTE
-    > A shipment of custom blasters meant for the Commerce Guild Punitive division has been marked as missing. It is presumed to have been intercepted at a handoff point on Corellia. Investigate this, secure the cargo ship, and await Commerce Guild personnel to confirm the shipment is intact. This confirmation team will have your payment.
-    & Payment: 15,000 credits for the full shipment, aboard a Guild GR-75 transport. Bonus may be issued if evidence is found of wider group planning hits against Punitive operations.
-  TAGS : retrieval, investigation, planetside
+    > Sorry everyone, this bounty page is currently <strong>under construction</strong>. Please come back later to see if more stuff has been added.
+    & If you want more bounties here, try submitting one! I'm willing to put bounties from all providers on here!
   DONE : true
-
-MUTANT MYNOCKS
-  AUTH : Commerce Guild
-  QOTE
-    > Retrieve samples of a rare, mutated variant of the Mynock from Aloxor in the Mid Rim.
-    & Payment: 1,000 credits per body retrieved, plus 2,000 per healthy live sample
-  TAGS : retrieval, space, asteroids
-  DONE : true
-
-A WRENCH IN THE WORKS
-  AUTH : Commerce Guild
-  QOTE
-    > Find and capture a saboteur in a Commerce Guild factory. Dead or Alive, alive preferred so they can be interrogated to see if they had any accomplices.
-    & Payment: 30,000 (5,000 bonus if alive, 10k bonus per accomplice captured if any)
-  TAGS : capture, investigation, planetside
-  DONE : true
-
-RARE IMPORTS
-  AUTH : Commerce Guild
-  QOTE
-    > Bring in rare and exotic materials from anywhere in the galaxy to sell for a premium. Suprise me, if it takes my fancy I'll pay handsomely for it.
-    & THIS JOB DOES NOT PROVIDE FULL GUILD STANDING
-    & Additionally, you do not need to sign up for this bounty, merely bring in whatever materials you think may take Presidente Sulen's eye. Agents will comm the Presidente to appraise the materials and have him give a credit evaluation.
-    & Payment: varies depending on the material retrieved
-  TAGS : retrieval
-  DONE : true
-
-COLLECTIONS
-  AUTH : Commerce Guild
-  QOTE
-    > The Commerce Guild Collections department has many debts that need collecting, whether it be property or credits. Sometimes they like to call in extra help for these collections, since debtors are often... reluctant to pay back what they owe. Talk to local agents to see what can be done.
-    & High profile collections are handed out to all agents, smaller scale ones are only handed out to the closest agent to the last known location of the debtor.
-    & Payment: 10% of the value of the debt owed, including interest. If debt is property, it will be a sum of credits equal to 10% of the credit valuation of the property owed. This is non-negotiable.
-  TAGS : capture, retrieval
-  DONE : true
-
-ADV HELPING HAND
-  AUTH : Commerce Guild
-  QOTE
-    > Eliminate a group of hostiles disrupting Mining Guild operations on a planet in the Deep Core.
-    & [one hunter active, bounty incomplete]
-    & Payment: 100,000 credits
-  TAGS : elimination, planetside
-  DONE : true
-
-ADV RANCOR HIDE
-  AUTH : Commerce Guild
-  QOTE
-    > Retrieve Rancor skins from either Felucia or Dathomir. Must be properly skinned and treated, as enzymes in the Rancor's flesh begin to deteriorate the skin once the beast is killed.
-    & You do not need to sign up for this job, simply gather the skins and bring them to the Commerce Guild agent on Takodana, near Maz's cantina. The agent there can also provide tool-kits for treating Rancor skins for 500 credits apiece if you need such tools.
-    & Payment: 50,000 per complete, well-preserved skin (bonuses may be allotted if preservation is above average)
-  TAGS : retrieval, planetside
-  DONE : true
-
-ADV TURNCOAT IN OUR MIDST
-  AUTH : Commerce Guild
-  QOTE
-    > Eliminate malicious Commerce Guild Defector attempting to bring classified business related information, including legally protected trade secrets, to a competitor on Coruscant.
-    & 150,000 On elimination and retrieval of intel case (Bonus for solid intelligence on the identity of the competitor, bonus depends on quality of information)
-  TAGS : elimination, investigation, planetside
-  DONE : false
 `
